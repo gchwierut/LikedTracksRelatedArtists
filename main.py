@@ -65,7 +65,7 @@ print(f"Number of distinct artists: {len(artist_ids)}")
 # Get the related distinct artists and their top tracks, and add each track to the new playlist immediately
 related_artists = set()
 found_top_tracks = set()
-playlist_name = "Related Tracks Playlist2"
+playlist_name = "Related Tracks Playlist"
 playlist_id = None
 tracks_added = 0
 
